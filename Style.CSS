@@ -1,0 +1,33 @@
+.example1{
+    background-color: rgb(0, 255, 68);
+    height: 300px;
+    width: 300px;
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+}
+
+.example2{
+    background-color: rgb(55, 0, 255);
+    height: 400px;
+    width: 400px;
+    margin: 40px 30px 50px 10px;
+    padding:20px 30px 5px 4px;
+    border: 30px solid rgb(0, 255, 106);
+}
+
+#floting_property{
+    background-color: bisque;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+#left{
+    float: left;
+}
+#right{
+    float:right;
+}
